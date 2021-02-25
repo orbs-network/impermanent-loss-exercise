@@ -48,7 +48,7 @@ Don't be afraid to Google to learn more. Again, many animated YouTube videos for
 
 People's accounts (wallets) on Ethereum are represented using a hex address. Here is one for example - [0xFcd300AaFE1fDB3166cd1A3B46463144fc2D46ad](https://etherscan.io/address/0xFcd300AaFE1fDB3166cd1A3B46463144fc2D46ad). This wallet is a liquidity provider that added $100 worth of USD (100 USDC tokens) and about $100 worth of ETH (0.062 ETH tokens) as liquidity - you can see the transaction where this happened [here](https://etherscan.io/tx/0x9ff9f4837bc468f8b6b321f0d9a69739e1c39093f844835258d863c75d68f123). Now, our fearless liquidity provider wants to know if they are making more money due to the fees or losing money due to the impermanent loss. How can they tell??
 
-Your simple node.js script will print out the answer.
+Your simple node.js script will print out the answer. It should use the web3 JavaScript library to interact with the relevant Uniswap smart contract on Ethereum to calculate the answer (don't worry, there isn't any complex math involved).
 
 ### Questions? Anything is unclear?
 
