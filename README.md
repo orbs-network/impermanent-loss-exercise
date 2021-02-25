@@ -18,7 +18,7 @@ Here are some pointers to get you started in the right direction:
 
 Ethereum is a globally shared cloud service where anyone can deploy code (these pieces of code are called *smart contracts*) and anyone can call the methods of this code (calling a method that writes data to persistent state is called *executing a transaction*). One of the popular applications of this technology is to write code that deals with decentralized money - money that is fully democratic and transparent and isn't being controlled by a small minority.
 
-A popular web-based explorer that lets you query the Ethereum network, the smart contracts on it and their state is [etherscan.io](etherscan.io). Don't be afraid to Google to learn more, but be careful not to drown yourself in information.
+A popular web-based explorer that lets you query the Ethereum network, the smart contracts on it and their state is [etherscan.io](https://etherscan.io). Don't be afraid to Google to learn more, but be careful not to drown yourself in information.
 
 ### How can you write scripts that query Ethereum?
 
